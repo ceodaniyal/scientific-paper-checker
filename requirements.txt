@@ -1,0 +1,8 @@
+langchain
+langgraph
+pymongo
+openai
+langchain_openai
+python-dotenv
+PyMuPDF
+uuid
