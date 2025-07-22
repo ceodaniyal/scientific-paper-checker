@@ -1,4 +1,3 @@
-Sure! Here's a professional and clean **README.md** for your **Scientific Paper Checker** project:
 # 🧪 Scientific Paper Checker
 
 An AI-powered tool to **analyze research papers** (PDF or LaTeX), extract key sections, assess their quality, and suggest improvements. Built with **LangGraph, LangChain, OpenAI GPT-4, and MongoDB**, this tool serves as a lightweight peer-review assistant for researchers, academic writers, and AI research tools.
